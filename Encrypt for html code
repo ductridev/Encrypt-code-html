@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Dynamic Drive DHTML Scripts- Source Code Encrypter </title>
-    <link rel="stylesheet" type="text/css" href="../ddincludes/mainstylev2.css" />
+    <link rel="stylesheet" href="css\encrypt code.css">
 
 </head>
 
@@ -14,8 +14,8 @@
     <script src="http://www.dynamicdrive.com/ddincludes/scriptsv21.js"></script>
     <div id="topsection">
 
-     </div>
-
+    </div>
+    <h1><img src="image\FB.jpg" class="img-thumbnail"> Copy html code into this table anh I will encrypt code for you !!! </h1>
     <div id="maincontainer">
 
         <div id="contentwrapper">
@@ -30,7 +30,7 @@
                     <!--webbot bot="HTMLMarkup" startspan -->
                     <script language=JavaScript>
 <!--
-                        //////////////////////////////////////////////////////////////////
+                       //////////////////////////////////////////////////////////////////
                         //                      Source Code Encrypter v1.0              //
                         //////////////////////////////////////////////////////////////////
                         //                                                              //
@@ -40,7 +40,7 @@
                         //  Script submitted/featured on Dynamicdrive.com               //
                         //  Visit https://github.com/TrisKnightGamer/Encrypt-code-html  //
                         //  /new/master for source code                                 //
-                        //          Svetlin Staev, thewebmonster@altavista.com          //
+                        //  Duc Tri Hoang, trihd123@gmail.com                           //
                         //////////////////////////////////////////////////////////////////
 
                         var i = 0;
@@ -148,7 +148,7 @@
                
             </div>
         </div>
-
+    </div>
     <script>
         (function (i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
